@@ -7,7 +7,7 @@ Ireland - which will allow them to get to know and explore this part of Ireland 
 
 ###
 
-![overview](https://power88w.github.io/Centric_Frontend_project/images/main-overview.JPG)
+![overview](https://mkulpaData.github.io/Centric_Frontend_project/images/main-overview.JPG)
  
 # UX
 This website targets anglers and serves a quide for them. 
@@ -28,7 +28,7 @@ The first concept has been slightly changed - to improve the quality of the webs
 
 ###
 
-![Wireframe](https://power88w.github.io/Centric_Frontend_project/images/wireframe.JPG)
+![Wireframe](https://mkulpaData.github.io/Centric_Frontend_project/images/wireframe.JPG)
 
 
 ## New and Existing Users
@@ -153,10 +153,10 @@ While testing the website I found the following problems:
 ## Deployment
 
 ```md
- git clone https://github.com/power88w/Centric_Frontend_project.git
+ git clone https://github.com/mkulpaData/Centric_Frontend_project.git
 ```
 
-(https://power88w.github.io/Centric_Frontend_project/index.html)
+(https://mkulpaData.github.io/Centric_Frontend_project/index.html)
 
 
 
